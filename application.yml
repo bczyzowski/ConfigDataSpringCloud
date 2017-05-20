@@ -39,3 +39,8 @@ spring:
   application:
     name: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+spring:
+  profiles: lab-3-client
+words: boat,book,vote,seat,backpack,partition,groundhog
